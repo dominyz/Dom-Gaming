@@ -4,7 +4,7 @@ I worked on this script for starpact for the last 2-3 weeks (and learned AHK scr
 
 This is a (not yet fully) partly customizable sequence for starpact. Hit F2 to access the configuration menu. 
 
--Left click is electrocute and Right click is Arcane torrent (did not implement this yet)
+-Left click is electrocute and Right click is Arcane torrent (did not implement this customization yet)
 - It will do way better in low trash situation than most public scripts. 
 -On default timings, you start it between 2 and 3 o'clock in lightning and it does 4 longer cycles than usual, then do a short pause to ensure max AP in the next arcane cycle. 
 -You need to hold your hotkey to keep doing the sequence
