@@ -1,3 +1,4 @@
+-- Customize with F2 --
 Toggle version. Make sure you delete your old starpact3.ini if you have one. 
 
 **There is a possible bug on international keyboards on that one, but I'm not sure. So far it seems fine with ENG US keyboard and 
