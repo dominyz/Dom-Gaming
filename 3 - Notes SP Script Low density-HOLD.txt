@@ -1,5 +1,6 @@
 SP Script Low density version
 ---------------------
+-- Customize with F2 --
 I worked on this script for starpact for the last 2-3 weeks (and learned AHK scripting while doing it). It's still on "beta" version. Please let me know if you have some bugs/comments/advices. 
 
 This is a (not yet fully) partly customizable sequence for starpact. Hit F2 to access the configuration menu. 
