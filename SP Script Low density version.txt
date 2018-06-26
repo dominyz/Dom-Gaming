@@ -15,4 +15,4 @@ This is a (not yet fully) partly customizable sequence for starpact. Hit F2 to a
 You can set it for even cycles if you set the pause timer to zero and enter your own timings for the normal sequence (not recommended to do it that way, this would be more efficient if the pausing part of the sequence would be removed entirely from the script... I will release the even sequence variation soon)
 
 Also, the code is probably not optimal, but at least it works flawlessly. This sequence gives really good perfomance (dps) especially in low trash situations over public scripts.
-Thanks to jaco0646 for his hotkey managing base code.(modifié)
+Thanks to jaco0646 for his hotkey managing base code.
