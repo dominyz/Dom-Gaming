@@ -1,4 +1,4 @@
-﻿toggle = 0
+toggle = 0
 #MaxThreadsPerHotkey 2
 
 F2::
