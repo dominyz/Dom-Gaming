@@ -1,5 +1,7 @@
 SP Script Standard version
 -------------------------
+-- Customize with F2 --
+
 Like I was planning to, here's the release for standard usual / steady cycles version. It's still an improvement over a simple sequence script. 
 This one has quick release and is really easy to tweak for perfect timings / different keybinds.
 
