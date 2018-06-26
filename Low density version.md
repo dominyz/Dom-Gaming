@@ -1,0 +1,18 @@
+Low density SP script
+---------------------
+I worked on this script for starpact for the last 2-3 weeks (and learned AHK scripting while doing it). It's still on "beta" version. Please let me know if you have some bugs/comments/advices. 
+
+This is a (not yet fully) partly customizable sequence for starpact. Hit F2 to access the configuration menu. 
+
+-Left click is electrocute and Right click is Arcane torrent (did not implement this yet)
+- It will do way better in low trash situation than most public scripts. 
+-On default timings, you start it between 2 and 3 o'clock in lightning and it does 4 longer cycles than usual, then do a short pause to ensure max AP in the next arcane cycle. 
+-You need to hold your hotkey to keep doing the sequence
+-If you release the hotkey, the script will stop and will be ready to restart from the beginning (good for wormholes, and not getting stuck when moving to the next setup)
+-It won't work outside of D3 window, so if you want to see the menu, make sure you are in Diablo before hitting F2
+-It will create and save all your setting in Starpact.ini (same folder)
+-----------
+You can set it for even cycles if you set the pause timer to zero and enter your own timings for the normal sequence (not recommended to do it that way, this would be more efficient if the pausing part of the sequence would be removed entirely from the script... I will release the even sequence variation soon)
+
+Also, the code is probably not optimal, but at least it works flawlessly. This sequence gives really good perfomance (dps) especially in low trash situations over public scripts.
+Thanks to jaco0646 for his hotkey managing base code.(modifié)
